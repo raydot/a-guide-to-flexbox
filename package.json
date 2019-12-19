@@ -1,0 +1,32 @@
+{
+  "name": "a-guide-to-flexbox",
+  "version": "1.0.0",
+  "description": "See README for details",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/a-guide-to-flexbox.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "flex",
+    "flexbox"
+  ],
+  "author": "Dave Kanter",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/raydot/a-guide-to-flexbox/issues"
+  },
+  "homepage": "https://github.com/raydot/a-guide-to-flexbox#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "browser-refresh": "^1.7.3"
+  }
+}
